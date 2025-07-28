@@ -1,0 +1,46 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and error files
+*.log
+*.bak
+*.tmp
+error_log
+
+# XAMPP / local env
+htdocs/
+.env
+.env.local
+
+# PHPStorm / JetBrains
+*.iml
+*.ipr
+*.iws
+out/
+
+# Composer (if used in future)
+vendor/
+
+# Node (if frontend evolves)
+node_modules/
+dist/
+build/
+
+# Cache
+*.cache
+.cache/
+.phpunit.result.cache
+
+# Misc
+*.sql
+*.sqlite
+*.zip
+*.tar.gz
+*.gz
